@@ -1,5 +1,6 @@
 /*
     hello_world.cu
+    nvcc -o a hello_world.cu&& ./a && rm a
 */
 
 #include <stdio.h>
